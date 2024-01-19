@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fb-website/static/css/main.c5123321.css",
+    "main.js": "/fb-website/static/js/main.17a551c6.js",
+    "static/js/787.1937f22b.chunk.js": "/fb-website/static/js/787.1937f22b.chunk.js",
+    "index.html": "/fb-website/index.html",
+    "main.c5123321.css.map": "/fb-website/static/css/main.c5123321.css.map",
+    "main.17a551c6.js.map": "/fb-website/static/js/main.17a551c6.js.map",
+    "787.1937f22b.chunk.js.map": "/fb-website/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5123321.css",
+    "static/js/main.17a551c6.js"
+  ]
+}
